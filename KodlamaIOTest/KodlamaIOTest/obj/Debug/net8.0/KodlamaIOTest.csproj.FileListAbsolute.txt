@@ -1,0 +1,4 @@
+D:\Eğitimler\C#\Engin Demiroğ\KodlamaIOTest\KodlamaIOTest\obj\Debug\net8.0\KodlamaIOTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eğitimler\C#\Engin Demiroğ\KodlamaIOTest\KodlamaIOTest\obj\Debug\net8.0\KodlamaIOTest.AssemblyInfoInputs.cache
+D:\Eğitimler\C#\Engin Demiroğ\KodlamaIOTest\KodlamaIOTest\obj\Debug\net8.0\KodlamaIOTest.AssemblyInfo.cs
+D:\Eğitimler\C#\Engin Demiroğ\KodlamaIOTest\KodlamaIOTest\obj\Debug\net8.0\KodlamaIOTest.csproj.CoreCompileInputs.cache
